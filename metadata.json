@@ -1,0 +1,8 @@
+{
+	"name": "Hacker News Points",
+	"author": "shcheglovnd",
+	"description": "Hacker News stories with at least a given number of points, dated when they reach it rather than when they were posted. Subscribe to https://news.ycombinator.com/, or e.g. https://news.ycombinator.com/?min_points=500&date=posted.",
+	"version": "0.1.0",
+	"entrypoint": "HackerNewsPoints",
+	"type": "user"
+}
